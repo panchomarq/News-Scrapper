@@ -1,0 +1,4 @@
+Links = //div[@class="hidden_desktop"]/descendant::a/@href
+Título = //div[@class="article-header font_tertiary"]/h1/text()
+Resumen = //div[@class="article-header font_tertiary"]/h2/text()
+Cuerpo = //article[@class="article | col widescreen-8 desktop-8 tablet-12 width_full"]/p//text()
